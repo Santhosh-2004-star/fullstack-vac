@@ -1,0 +1,26 @@
+#n1{
+    color: yellowgreen;
+}
+*{
+    color: cornflowerblue;
+}
+
+
+.one{
+    color: hotpink;
+}
+.two{
+    color: turquoise;
+}
+div{
+    color: tomato;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  
+}
+body{
+    background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJxbzhwdmR2dnRhamp5aDVremZ5dTJweDRocHdsamNrYXQwdDdsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ygzdQq98HgcLBCacep/giphy.webp);
+    background-size: cover;
+}
